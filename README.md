@@ -1,0 +1,2 @@
+# DjangoMCI
+test for mci
